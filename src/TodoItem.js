@@ -1,3 +1,5 @@
+import "./stiles/TodoItem.css"
+
 function TodoItem({ task, status }) {
     return (
         <li>

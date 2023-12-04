@@ -1,3 +1,6 @@
+import './stiles/TodoCounter.css';
+
+
 function TodoCounter({ total, completed }) {
 
 
